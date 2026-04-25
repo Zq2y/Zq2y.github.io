@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Renmin University of China, 2024-present
+# * M.S. in Jekyll, GitHub University, 2014
+* B.S. in Mathematics and Applied Mathematics, Beijing Normal University, 2020-2024
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -40,6 +41,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+--》
 
 Publications
 ======
