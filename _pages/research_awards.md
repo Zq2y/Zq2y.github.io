@@ -2,7 +2,7 @@
 title: "Research & Awards"
 layout: single
 author_profile: true
-permalink: /research/
+permalink: /research_awards/
 ---
 
 ## Research Interests
