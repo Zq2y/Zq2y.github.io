@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+<!-- <h2>Instructor</h2>
+{% assign instructor_posts = site.teaching | where_exp: "post", "post.path contains '/instructor/'" | sort: "date" | reverse %}
+{% for post in instructor_posts %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
+<h2>Teaching Assistant</h2>
+{% assign ta_posts = site.teaching | where_exp: "post", "post.path contains '/ta/'" | sort: "date" | reverse %}
+{% for post in ta_posts %}
   {% include archive-single.html %}
 {% endfor %}
