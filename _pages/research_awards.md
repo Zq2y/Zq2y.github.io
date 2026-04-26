@@ -14,11 +14,11 @@ permalink: /research_awards/
 
 ## Publications
 
-- #Zhen Qi#, Xu Guo, and Haobo Qi (2025). Distributed learning for high-dimensional factor augmented regression models. Statistics and Computing 36, 15. 
+- **Zhen Qi**, Xu Guo, and Haobo Qi (2026). [Distributed learning for high-dimensional factor augmented regression models](https://link.springer.com/article/10.1007/s11222-025-10761-0). *Statistics and Computing*, 36, 15.
 
-## Priprints
+## Preprints
 
-- #Zhen Qi# and Yuqian Zhang (2026). Quadruply robust methods for causal mediation analysis. arXiv preprint arXiv:2601.22592.
+- **Zhen Qi** and Yuqian Zhang (2026). [Quadruply robust methods for causal mediation analysis](https://arxiv.org/abs/2601.22592). arXiv preprint arXiv:2601.22592.
 
 ## Awards & Honors
 
