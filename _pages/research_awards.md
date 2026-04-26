@@ -14,7 +14,7 @@ permalink: /research_awards/
 
 ## Publications
 
-- **Zhen Qi**, Xu Guo, and Haobo Qi (2026). [Distributed learning for high-dimensional factor augmented regression models](https://link.springer.com/article/10.1007/s11222-025-10761-0). *Statistics and Computing*, 36, 15.
+- **Zhen Qi**, Xu Guo, and Haobo Qi (2026). [Distributed learning for high-dimensional factor augmented regression models](https://doi.org/10.1007/s11222-025-10761-0). *Statistics and Computing*, 36, 15.
 
 ## Preprints
 
