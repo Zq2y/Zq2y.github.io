@@ -9,9 +9,9 @@ author_profile: true
 **2022 – present**
 
 - **Statistical models and inference II**
-  *PhD level*
-  *Spring 2026*
+  , *PhD level*
+  , Spring 2026.
 
 - **Probability Theory and Mathematical Statistics C**
-  *Undergraduate level*  
-  *Fall 2025*
+  , *Undergraduate level*  
+  , Fall 2025.
