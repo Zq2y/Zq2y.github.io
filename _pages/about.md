@@ -13,4 +13,4 @@ My research focuses on theory and methodology in causal inference, semi-supervis
 
 <br>
 
-[📄 Here is my Curriculum Vitae (CV).](/_data/cv.pdf)
+[📄 Here is my Curriculum Vitae (CV).](/assets/cv.pdf)
